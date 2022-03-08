@@ -1,0 +1,24 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+F:/study/homework/project/计算机组成原理课设设计/project_3/project_3.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+F:/study/homework/project/计算机组成原理课设设计/project_x/BJ_Unit.v,1624178368,verilog,,F:/study/homework/project/计算机组成原理课设设计/project_x/Ex_Mem.v,,BJ_Unit,,,,,,,,
+F:/study/homework/project/计算机组成原理课设设计/project_x/Ex_Mem.v,1623987800,verilog,,F:/study/homework/project/计算机组成原理课设设计/project_x/ID_Ex.v,,Ex_Mem,,,,,,,,
+F:/study/homework/project/计算机组成原理课设设计/project_x/ID_Ex.v,1624161489,verilog,,F:/study/homework/project/计算机组成原理课设设计/project_x/IF_ID.v,,ID_Ex,,,,,,,,
+F:/study/homework/project/计算机组成原理课设设计/project_x/IF_ID.v,1624161523,verilog,,F:/study/homework/project/计算机组成原理课设设计/project_x/Mem_Wr.v,,IF_ID,,,,,,,,
+F:/study/homework/project/计算机组成原理课设设计/project_x/Mem_Wr.v,1624067367,verilog,,F:/study/homework/project/计算机组成原理课设设计/project_x/alu.v,,Mem_Wr,,,,,,,,
+F:/study/homework/project/计算机组成原理课设设计/project_x/alu.v,1624176991,verilog,,F:/study/homework/project/计算机组成原理课设设计/project_x/alu_ctr.v,,ALU;Ex_Adder,,,,,,,,
+F:/study/homework/project/计算机组成原理课设设计/project_x/alu_ctr.v,1624018370,verilog,,F:/study/homework/project/计算机组成原理课设设计/project_x/datapath.v,,ALU_CTR,,,,,,,,
+F:/study/homework/project/计算机组成原理课设设计/project_x/datapath.v,1624178389,verilog,,F:/study/homework/project/计算机组成原理课设设计/project_x/dm.v,,DATAPATH,,,,,,,,
+F:/study/homework/project/计算机组成原理课设设计/project_x/dm.v,1624162438,verilog,,F:/study/homework/project/计算机组成原理课设设计/project_x/extension.v,,DM,,,,,,,,
+F:/study/homework/project/计算机组成原理课设设计/project_x/extension.v,1624106420,verilog,,F:/study/homework/project/计算机组成原理课设设计/project_x/forwarding.v,,EX_EXTENDER1;EX_EXTENDER2;Mem_Extender,,,,,,,,
+F:/study/homework/project/计算机组成原理课设设计/project_x/forwarding.v,1624096714,verilog,,F:/study/homework/project/计算机组成原理课设设计/project_x/im.v,,FORWARDING;Loaduse,,,,,,,,
+F:/study/homework/project/计算机组成原理课设设计/project_x/im.v,1624163057,verilog,,F:/study/homework/project/计算机组成原理课设设计/project_x/main_ctrl.v,,IM,,,,,,,,
+F:/study/homework/project/计算机组成原理课设设计/project_x/main_ctrl.v,1624178838,verilog,,F:/study/homework/project/计算机组成原理课设设计/project_x/mux.v,,MAIN_CTRL,,,,,,,,
+F:/study/homework/project/计算机组成原理课设设计/project_x/mux.v,1624099747,verilog,,F:/study/homework/project/计算机组成原理课设设计/project_x/npc.v,,Ex_MUX1;Ex_MUX2;Ex_MUX3;Ex_MUXA_FORWARDING;Ex_MUXB_FORWARDING;Mem_MUX,,,,,,,,
+F:/study/homework/project/计算机组成原理课设设计/project_x/npc.v,1623989080,verilog,,F:/study/homework/project/计算机组成原理课设设计/project_x/pc.v,,NPC,,,,,,,,
+F:/study/homework/project/计算机组成原理课设设计/project_x/pc.v,1624155822,verilog,,F:/study/homework/project/计算机组成原理课设设计/project_x/pipeline_processor.v,,PC,,,,,,,,
+F:/study/homework/project/计算机组成原理课设设计/project_x/pipeline_processor.v,1624076265,verilog,,F:/study/homework/project/计算机组成原理课设设计/project_x/regfile.v,,PIPELINE_PROCESSOR,,,,,,,,
+F:/study/homework/project/计算机组成原理课设设计/project_x/regfile.v,1624067981,verilog,,F:/study/homework/project/计算机组成原理课设设计/project_x/testbench.v,,REGFILE,,,,,,,,
+F:/study/homework/project/计算机组成原理课设设计/project_x/testbench.v,1624088706,verilog,,,,testbench,,,,,,,,

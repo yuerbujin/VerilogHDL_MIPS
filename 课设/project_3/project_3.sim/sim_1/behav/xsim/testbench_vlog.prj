@@ -1,0 +1,27 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../project_x/BJ_Unit.v" \
+"../../../../../project_x/Ex_Mem.v" \
+"../../../../../project_x/ID_Ex.v" \
+"../../../../../project_x/IF_ID.v" \
+"../../../../../project_x/Mem_Wr.v" \
+"../../../../../project_x/alu.v" \
+"../../../../../project_x/alu_ctr.v" \
+"../../../../../project_x/datapath.v" \
+"../../../../../project_x/dm.v" \
+"../../../../../project_x/extension.v" \
+"../../../../../project_x/forwarding.v" \
+"../../../../../project_x/im.v" \
+"../../../../../project_x/main_ctrl.v" \
+"../../../../../project_x/mux.v" \
+"../../../../../project_x/npc.v" \
+"../../../../../project_x/pc.v" \
+"../../../../../project_x/pipeline_processor.v" \
+"../../../../../project_x/regfile.v" \
+"../../../../../project_x/testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

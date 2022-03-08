@@ -1,0 +1,49 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/study/homework/project/计算机组成原理课设设计/project_x/BJ_Unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BJ_Unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/study/homework/project/计算机组成原理课设设计/project_x/Ex_Mem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Ex_Mem
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/study/homework/project/计算机组成原理课设设计/project_x/ID_Ex.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ID_Ex
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/study/homework/project/计算机组成原理课设设计/project_x/IF_ID.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IF_ID
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/study/homework/project/计算机组成原理课设设计/project_x/Mem_Wr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mem_Wr
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/study/homework/project/计算机组成原理课设设计/project_x/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-311] analyzing module Ex_Adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/study/homework/project/计算机组成原理课设设计/project_x/alu_ctr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_CTR
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/study/homework/project/计算机组成原理课设设计/project_x/datapath.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DATAPATH
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/study/homework/project/计算机组成原理课设设计/project_x/dm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DM
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/study/homework/project/计算机组成原理课设设计/project_x/extension.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EX_EXTENDER1
+INFO: [VRFC 10-311] analyzing module EX_EXTENDER2
+INFO: [VRFC 10-311] analyzing module Mem_Extender
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/study/homework/project/计算机组成原理课设设计/project_x/forwarding.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FORWARDING
+INFO: [VRFC 10-311] analyzing module Loaduse
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/study/homework/project/计算机组成原理课设设计/project_x/im.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IM
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/study/homework/project/计算机组成原理课设设计/project_x/main_ctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MAIN_CTRL
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/study/homework/project/计算机组成原理课设设计/project_x/mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Ex_MUX1
+INFO: [VRFC 10-311] analyzing module Ex_MUX2
+INFO: [VRFC 10-311] analyzing module Ex_MUX3
+INFO: [VRFC 10-311] analyzing module Ex_MUXA_FORWARDING
+INFO: [VRFC 10-311] analyzing module Ex_MUXB_FORWARDING
+INFO: [VRFC 10-311] analyzing module Mem_MUX
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/study/homework/project/计算机组成原理课设设计/project_x/npc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module NPC
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/study/homework/project/计算机组成原理课设设计/project_x/pc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/study/homework/project/计算机组成原理课设设计/project_x/pipeline_processor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PIPELINE_PROCESSOR
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/study/homework/project/计算机组成原理课设设计/project_x/regfile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module REGFILE
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/study/homework/project/计算机组成原理课设设计/project_x/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/study/homework/project/计算机组成原理课设设计/project_3/project_3.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
